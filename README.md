@@ -1,1 +1,1 @@
-# finova
+# finova- financial platform
